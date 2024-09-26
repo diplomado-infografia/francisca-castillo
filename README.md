@@ -8,5 +8,4 @@ Fue fundada el 19 de agosto de 1813, por miembros de la Junta de Gobierno, convi
 
 - - - - -
 
-![castillo](https://github.com/user-attachments/assets/43c5cac3-0dea-46de-8ad0-18360eeacd9c)
-
+![castillo](https://github.com/user-attachments/assets/618e869a-25bf-4d01-bae9-9ccb6516996a)
