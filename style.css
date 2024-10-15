@@ -7,6 +7,7 @@
         margin: 0 auto; 
     }
 
+    /* Me hubiera gustado que ocupara todo el ancho, pero no descubrí cómo hacerlo */
     header{
                 background:transparent url('img/banner-header.png');
                 background-size:100% auto;
