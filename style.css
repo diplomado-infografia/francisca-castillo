@@ -9,6 +9,12 @@
 :root {
     --bs-font-sans-serif: "Barlow Semi Condensed", sans-serif;
 }
+     
+        header{
+                background:transparent url('img/banner-header.png') top center no-repeat;
+                background-size:100% auto;
+                padding-top:34vw;
+            }
 
 h1,
 h2,
